@@ -12,4 +12,5 @@
 <h6 align="left">- 👨‍🎓 NEB grade 10 scoring 3.50 GPA from Everest Academy (Lalbandi Sarlahi, Nepal)</h6>
 <h6 align="left">- ❣️ devotee of Shri Hari Vishnu</h6>
 
+<h3 align="left">   </h3>
 <h3 align="left">Academy Platforms</h3>
