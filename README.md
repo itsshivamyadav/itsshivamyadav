@@ -1,4 +1,4 @@
-<h1 align="start">Hi 👋, I'm Shivam Yadav</h1>
+<h1 align="start">Namaste 🙏 from Shivam Yadav</h1>
 <h4 align="start">Founder & CEO of Academy Platforms and Grade 11 Student at KMC Balkumari!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsshivamyadav&label=Profile%20views&color=0e75b6&style=flat" alt="itsshivamyadav" /> </p>
