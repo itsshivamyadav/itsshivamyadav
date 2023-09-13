@@ -5,11 +5,8 @@
 
 <p align="left"> <a href="https://twitter.com/itsshivamnp" target="blank"><img src="https://img.shields.io/twitter/follow/itsshivamnp?logo=twitter&style=for-the-badge" alt="itsshivamnp" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter & Python**
+👋 Greetings! I'm Shivam Yadav, a dedicated individual with a dynamic blend of roles in both education and entrepreneurship. As the Founder & CEO of Academy Platforms, I'm passionate about fostering innovation and learning. Alongside my entrepreneurial journey, I'm a Grade 11 student at KMC Balkumari, pursuing the Computer Science and Mathematics degree. My thirst for knowledge extends to the world of technology, where I'm currently immersed in the realms of Flutter and Python.
 
-- 💬 Ask me about **business, startups, mobile app development, investments & marketing**
-
-- 📫 How to reach me **shivam@academyplatforms.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
