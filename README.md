@@ -21,4 +21,4 @@ Using OpenAI's sdk, I came up with this personal project. Confab AI is available
 <h3 align="left">Super Jumper | Developer</h3>
 Being a young age developer, I would ofcourse try out my hands on games & entertainment platforms. And I did, I made a mobile game using Flutter framework. Super Jumper is a hypercasual game where you need to protect a small cat from obstacles and test your skills to recognize the enemies and fight against them very early.
 
-<h4 align="left">Write on shivam@academyplatforms.xyz for connecting with me!</h4>
+<h4 align="left">Write on shivam@academyplatforms.xyz to connect to me!</h4>
