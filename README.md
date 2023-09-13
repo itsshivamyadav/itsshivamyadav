@@ -12,7 +12,7 @@
 <h6 align="left">- 👨‍🎓 NEB grade 10 scoring 3.50 GPA from Everest Academy (Lalbandi Sarlahi, Nepal)</h6>
 <h6 align="left">- ❣️ devotee of Shri Hari Vishnu</h6>
 
-<h3 align="left">Academy Platforms</h3> <h4 align="left">Founder & CEO</h4>
+<h3 align="left">Academy Platforms</h3> | Founder & CEO
 Academy Platforms is a school management software. Unlike others in the field, Academy brings up a beautiful experience and set of required features making this the most promising software for educational institutions. "Witness the best of technology in education" has always been a statement I forwarded as the CEO of this growing platform.
 
 <h3 align="left">Confab AI Platform</h3> <h4 align="left">Developer</h4>
