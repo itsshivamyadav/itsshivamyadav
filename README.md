@@ -16,7 +16,7 @@
 Academy Platforms is a school management software. Unlike others in the field, Academy brings up a beautiful experience and set of required features making this the most promising software for educational institutions. "Witness the best of technology in education" has always been a statement I forwarded as the CEO of this growing platform.
 
 <h3 align="left">Confab AI Platform | Developer</h3>
-Using OpenAI's sdk, I came up with this personal project. Confab AI is available on Google Play to enable your Android devices have the AI assistant and answer your curiosity. Confab AI is a successful android app with 5.0 ratings and 200+ downloads with a outstanding profile on Google Play Store. I discontinued this project as now ChatGPT is officialy release for Android devices but you can still try it out downloading it from Google Play.
+Using OpenAI's SDK, I came up with this personal project. Confab AI is available on Google Play to enable your Android devices have the AI assistant and answer your curiosity. Confab AI is a successful android app with 5.0 ratings and 200+ downloads with a outstanding profile on Google Play Store. I discontinued this project as now ChatGPT is officialy release for Android devices but you can still try it out downloading it from Google Play.
 
 <h3 align="left">Super Jumper | Developer</h3>
 Being a young age developer, I would ofcourse try out my hands on games & entertainment platforms. And I did, I made a mobile game using Flutter framework. Super Jumper is a hypercasual game where you need to protect a small cat from obstacles and test your skills to recognize the enemies and fight against them very early.
